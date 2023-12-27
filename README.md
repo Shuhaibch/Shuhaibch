@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shuhaibch
-- 👀 I’m interested in ...python
-- 🌱 I’m currently learning ...BCA
+- 👀 I’m interested in ...flutter
+- 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
